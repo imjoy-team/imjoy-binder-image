@@ -1,0 +1,6 @@
+numpy
+pandas
+scipy
+matplotlib
+ipywidgets>=7.0.0
+imjoy
