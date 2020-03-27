@@ -4,4 +4,4 @@ scipy
 matplotlib
 ipywidgets>=7.0.0
 imjoy
-jupyter-elfinder[jupyter]==0.1.40
+jupyter-elfinder[jupyter]==0.1.44
