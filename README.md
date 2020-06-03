@@ -1,6 +1,6 @@
 # Binder Image for ImJoy Jupyter kernel backend
 
-Try the demo here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/oeway/imjoy-binder-image/master?filepath=imjoy-plugin-example.ipynb)
+Try the demo here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/imjoy-team/imjoy-binder-image/master?filepath=imjoy-jupyter-tutorial.ipynb)
 
 ![](screenshot-imjoy-notebook.png)
 

@@ -3,4 +3,6 @@ pandas
 scipy
 matplotlib
 ipywidgets>=7.0.0
+imageio
+scikit-image
 imjoy>=0.10.0
