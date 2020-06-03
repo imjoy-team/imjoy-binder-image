@@ -3,5 +3,4 @@ pandas
 scipy
 matplotlib
 ipywidgets>=7.0.0
-imjoy
-imjoy-elfinder[jupyter]==0.1.49
+imjoy>=0.10.0
