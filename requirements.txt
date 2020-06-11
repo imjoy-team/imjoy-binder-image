@@ -6,3 +6,4 @@ ipywidgets>=7.0.0
 imageio
 scikit-image
 imjoy>=0.10.0
+imjoy-rpc>=0.2.5
